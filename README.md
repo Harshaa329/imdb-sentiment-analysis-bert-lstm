@@ -88,3 +88,10 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 notebooks/Applied AI Harshaa Hariharan.ipynb
+
+---
+
+## ⭐ Conclusion
+BERT outperforms both LSTM and classical ML models, achieving the highest accuracy and F1-score.  
+This demonstrates the power of Transformer models in sentiment analysis tasks.
+
