@@ -48,5 +48,5 @@ This project performs sentiment classification of IMDb movie reviews using multi
 ## 🙋‍♀️ Author
 **Harshaa Hariharan**  
 Machine Learning & Data Science  
-LinkedIn: *(coming soon)*  
+LinkedIn: *www.linkedin.com/in/harshaa-harshini-64522530hbc329*  
 Portfolio Website: *(coming soon)*
