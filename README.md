@@ -70,3 +70,16 @@ Portfolio Website: *(coming soon)*
 ### BERT Confusion Matrix
 ![BERT Confusion Matrix](Visuals/bert_confusion_matrix.png)
 
+---
+
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Harshaa329/imdb-sentiment-analysis-bert-lstm.git
+cd imdb-sentiment-analysis-bert-lstm
+```
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
