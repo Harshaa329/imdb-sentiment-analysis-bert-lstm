@@ -56,7 +56,7 @@ Portfolio Website: *(coming soon)*
 ## 📊 Model Evaluation
 
 ### Sentiment Class Distribution
-![Sentiment Distribution](visuals/sentiment_distribution.png)
+![Sentiment Distribution](Visuals/class_distribution.png)
 
 ### Performance Comparison
 ![Model Performance Comparison](visuals/performance_comparison_baseline_lstm_bert.png)
