@@ -59,14 +59,14 @@ Portfolio Website: *(coming soon)*
 ![Sentiment Distribution](Visuals/class_distribution.png)
 
 ### Performance Comparison
-![Model Performance Comparison](visuals/performance_comparison_baseline_lstm_bert.png)
+![Model Performance Comparison](Visuals/Performance_comparison_deep_learning.png)
 
 ### BERT Loss Curve
-![BERT Loss Curve](visuals/bert_loss_curve.png)
+![BERT Loss Curve](Visuals/bert_bert_loss_curve.png)
 
 ### BERT ROC Curve
-![BERT ROC Curve](visuals/bert_roc_curve.png)
+![BERT ROC Curve](Visuals/bert_roc_curve.png)
 
 ### BERT Confusion Matrix
-![BERT Confusion Matrix](visuals/bert_confusion_matrix.png)
+![BERT Confusion Matrix](Visuals/bert_confusion_matrix.png)
 
