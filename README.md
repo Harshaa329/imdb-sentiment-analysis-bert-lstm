@@ -50,3 +50,23 @@ This project performs sentiment classification of IMDb movie reviews using multi
 Machine Learning & Data Science  
 LinkedIn: *www.linkedin.com/in/harshaa-harshini-64522530hbc329*  
 Portfolio Website: *(coming soon)*
+
+---
+
+## 📊 Model Evaluation
+
+### Sentiment Class Distribution
+![Sentiment Distribution](visuals/sentiment_distribution.png)
+
+### Performance Comparison
+![Model Performance Comparison](visuals/performance_comparison_baseline_lstm_bert.png)
+
+### BERT Loss Curve
+![BERT Loss Curve](visuals/bert_loss_curve.png)
+
+### BERT ROC Curve
+![BERT ROC Curve](visuals/bert_roc_curve.png)
+
+### BERT Confusion Matrix
+![BERT Confusion Matrix](visuals/bert_confusion_matrix.png)
+
