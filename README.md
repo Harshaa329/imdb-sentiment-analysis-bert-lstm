@@ -83,3 +83,8 @@ cd imdb-sentiment-analysis-bert-lstm
 ```bash
 pip install -r requirements.txt
 ```
+### 3. Run Jupyter Notebook
+```bash
+jupyter notebook
+```
+notebooks/Applied AI Harshaa Hariharan.ipynb
