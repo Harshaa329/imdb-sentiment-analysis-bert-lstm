@@ -19,20 +19,20 @@ This project performs sentiment classification of IMDb movie reviews using multi
 ## 📂 Repository Structure
 
 - ├── src/
-- │   ├── data_loader.py        # Load IMDb dataset
-- │   ├── preprocessing.py      # Text cleaning, tokenization, TF-IDF, LSTM/BERT prep
-- │   ├── train_ml.py           # Train TF-IDF + NB + SVM
-- │   ├── train_lstm.py         # Train LSTM model
-- │   ├── train_bert.py         # Train BERT model
-- │   ├── evaluate.py           # Metrics, confusion matrix, ROC curve
-- │   ├── utils.py              # Helper functions
-- │   └── main.py               # Main pipeline runner
+- │   ├── data_loader.py        ---# Load IMDb dataset
+- │   ├── preprocessing.py      ---# Text cleaning, tokenization, TF-IDF, LSTM/BERT prep
+- │   ├── train_ml.py           ---# Train TF-IDF + NB + SVM
+- │   ├── train_lstm.py         ---# Train LSTM model
+- │   ├── train_bert.py         ---# Train BERT model
+- │   ├── evaluate.py           ---# Metrics, confusion matrix, ROC curve
+- │   ├── utils.py              ---# Helper functions
+- │   └── main.py               ---# Main pipeline runner
 - │
 - ├── notebooks/
 - │   └── Applied AI Harshaa Hariharan.ipynb
 - │
-- ├── models/                   # Saved ML, LSTM, BERT models
-- ├── Visuals/                  # Plots generated during evaluation
+- ├── models/                   ---# Saved ML, LSTM, BERT models
+- ├── Visuals/                  ---# Plots generated during evaluation
 - ├── requirements.txt
 - └── README.md
 
