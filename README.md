@@ -21,12 +21,17 @@ This project performs sentiment classification of IMDb movie reviews using multi
 ---
 
 ## 📈 Model Performance Comparison
+🔹 Classical Machine Learning Models
+|Model |	Accuracy | 	Precision	| Recall	| F1-score|
+|--------|---------|---------|--------|----------|
+|Naïve Bayes| 0.8647	| 0.8529	| 0.8814	| 0.8670 |
+|Linear SVM	| 0.8906	| 0.8867	| 0.8956	| 0.8911 |
 
-| Model | Accuracy | F1 Score |
-|--------|---------|---------|
-| Logistic Regression | 0.85 | 0.84 |
-| LSTM | 0.88 | 0.87 |
-| **BERT** | **0.92** | **0.92** |
+🔹 Deep Learning Models
+|Model |	Accuracy | 	Precision	| Recall	| F1-score|
+|--------|---------|---------|--------|----------|
+| LSTM | 0.8071 | 0.7647 | 0.8872 | 0.8214 | 0.9000 |
+| **BERT** | **0.9282** | **0.9240** | **0.9332** | **0.9286** | **0.9789** |
 
 ---
 
@@ -42,6 +47,14 @@ This project performs sentiment classification of IMDb movie reviews using multi
 - Add Streamlit inference web application
 - Hyperparameter tuning & dropout optimization
 - MLflow experiment tracking
+
+---
+## 📝 Summary of Findings
+
+- 🚀 BERT is the strongest performer, outperforming LSTM and classical ML models.
+- 🔥 Linear SVM performs surprisingly well given its simplicity, scoring ~0.89 accuracy.
+- 📉 LSTM performance is good but suffers compared to BERT due to lack of context-awareness.
+- ⚡ Classical ML is fast and efficient; BERT is computationally expensive but most accurate.
 
 ---
 
