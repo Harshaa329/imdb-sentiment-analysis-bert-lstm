@@ -80,7 +80,7 @@ This project performs sentiment classification of IMDb movie reviews using multi
 **Harshaa Hariharan**  
 Machine Learning & Data Science  
 LinkedIn: *www.linkedin.com/in/harshaa-harshini-64522530hbc329*  
-Portfolio Website: *(coming soon)*
+Portfolio Website: *(https://harshaa329.github.io)*
 
 ---
 
